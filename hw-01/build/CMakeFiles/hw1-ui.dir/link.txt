@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/hw1-ui.dir/main.cpp.o  -o hw1-ui  libgenerate.a 

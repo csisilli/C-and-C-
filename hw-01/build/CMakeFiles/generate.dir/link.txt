@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgenerate.a  CMakeFiles/generate.dir/includes/generate.cpp.o
+/usr/bin/ranlib libgenerate.a

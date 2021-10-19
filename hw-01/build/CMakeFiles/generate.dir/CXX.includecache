@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cait/data/cmps231/code/hw-01/includes/generate.cpp
+string
+-
+stack
+-
+queue
+-
+vector
+-
+string
+-
+iostream
+-
+

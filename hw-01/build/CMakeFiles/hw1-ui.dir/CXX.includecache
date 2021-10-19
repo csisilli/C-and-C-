@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/generate.h
+string
+-
+vector
+-
+
+/home/cait/data/cmps231/code/hw-01/main.cpp
+iostream
+-
+generate.h
+/home/cait/data/cmps231/code/hw-01/generate.h
+
