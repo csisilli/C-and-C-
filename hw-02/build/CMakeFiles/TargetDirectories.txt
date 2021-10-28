@@ -1,0 +1,5 @@
+/home/cait/data/cmps231/code/hw-02/build/CMakeFiles/rebuild_cache.dir
+/home/cait/data/cmps231/code/hw-02/build/CMakeFiles/edit_cache.dir
+/home/cait/data/cmps231/code/hw-02/build/CMakeFiles/test.dir
+/home/cait/data/cmps231/code/hw-02/build/CMakeFiles/testing.dir
+/home/cait/data/cmps231/code/hw-02/build/CMakeFiles/hw2-ui.dir

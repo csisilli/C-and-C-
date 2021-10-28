@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/linked-list.h
+stdexcept
+-
+iostream
+-
+stack
+-
+
+/home/cait/data/cmps231/code/hw-02/main.cpp
+iostream
+-
+linked-list.h
+/home/cait/data/cmps231/code/hw-02/linked-list.h
+
