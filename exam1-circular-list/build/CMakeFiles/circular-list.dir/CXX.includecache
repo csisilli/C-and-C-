@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/circular-list.h
+stdexcept
+-
+iostream
+-
+
+/home/cait/data/cmps231/code/exam1-circular-list/main.cpp
+iostream
+-
+circular-list.h
+/home/cait/data/cmps231/code/exam1-circular-list/circular-list.h
+
