@@ -1,0 +1,11 @@
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\bin\Debug\SisilliLabThree.exe.config
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\bin\Debug\SisilliLabThree.exe
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\bin\Debug\SisilliLabThree.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\obj\Debug\SisilliLabThree.csproj.AssemblyReference.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\obj\Debug\SisilliLabThree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\obj\Debug\SisilliLabThree.Properties.Resources.resources
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\obj\Debug\SisilliLabThree.csproj.GenerateResource.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\obj\Debug\SisilliLabThree.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\obj\Debug\SisilliLabThree.exe
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\obj\Debug\SisilliLabThree.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLabThree\obj\Debug\SisilliLabThree.Form1.resources
