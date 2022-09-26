@@ -1,0 +1,8 @@
+C:\Users\Caitlin\Desktop\.Net Environment\SIsilli_LabTwo\SIsilli_LabTwo\bin\Debug\SIsilli_LabTwo.exe.config
+C:\Users\Caitlin\Desktop\.Net Environment\SIsilli_LabTwo\SIsilli_LabTwo\bin\Debug\SIsilli_LabTwo.exe
+C:\Users\Caitlin\Desktop\.Net Environment\SIsilli_LabTwo\SIsilli_LabTwo\bin\Debug\SIsilli_LabTwo.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\SIsilli_LabTwo\SIsilli_LabTwo\obj\Debug\SIsilli_LabTwo.csproj.AssemblyReference.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SIsilli_LabTwo\SIsilli_LabTwo\obj\Debug\SIsilli_LabTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SIsilli_LabTwo\SIsilli_LabTwo\obj\Debug\SIsilli_LabTwo.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SIsilli_LabTwo\SIsilli_LabTwo\obj\Debug\SIsilli_LabTwo.exe
+C:\Users\Caitlin\Desktop\.Net Environment\SIsilli_LabTwo\SIsilli_LabTwo\obj\Debug\SIsilli_LabTwo.pdb

@@ -1,0 +1,11 @@
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\bin\Debug\WhereisMiller.exe.config
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\bin\Debug\WhereisMiller.exe
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\bin\Debug\WhereisMiller.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\obj\Debug\WhereisMiller.csproj.AssemblyReference.cache
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\obj\Debug\WhereisMiller.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\obj\Debug\WhereisMiller.SqerForm.resources
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\obj\Debug\WhereisMiller.Properties.Resources.resources
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\obj\Debug\WhereisMiller.csproj.GenerateResource.cache
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\obj\Debug\WhereisMiller.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\obj\Debug\WhereisMiller.exe
+C:\Users\Caitlin\Desktop\.Net Environment\WhereisMiller\WhereisMiller\obj\Debug\WhereisMiller.pdb

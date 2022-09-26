@@ -1,0 +1,11 @@
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\bin\Debug\MoreStuff.exe.config
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\bin\Debug\MoreStuff.exe
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\bin\Debug\MoreStuff.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\obj\Debug\MoreStuff.csproj.AssemblyReference.cache
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\obj\Debug\MoreStuff.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\obj\Debug\MoreStuff.Form1.resources
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\obj\Debug\MoreStuff.Properties.Resources.resources
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\obj\Debug\MoreStuff.csproj.GenerateResource.cache
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\obj\Debug\MoreStuff.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\obj\Debug\MoreStuff.exe
+C:\Users\Caitlin\Desktop\.Net Environment\MoreStuff\MoreStuff\obj\Debug\MoreStuff.pdb
