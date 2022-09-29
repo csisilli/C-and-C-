@@ -1,0 +1,11 @@
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\bin\Debug\SisilliLab4.exe.config
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\bin\Debug\SisilliLab4.exe
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\bin\Debug\SisilliLab4.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\obj\Debug\SisilliLab4.csproj.AssemblyReference.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\obj\Debug\SisilliLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\obj\Debug\SisilliLab4.Form1.resources
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\obj\Debug\SisilliLab4.Properties.Resources.resources
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\obj\Debug\SisilliLab4.csproj.GenerateResource.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\obj\Debug\SisilliLab4.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\obj\Debug\SisilliLab4.exe
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab4\obj\Debug\SisilliLab4.pdb
