@@ -1,0 +1,8 @@
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab5\obj\Release\SisilliLab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab5\obj\Release\SisilliLab5.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab5\obj\Release\SisilliLab5.csproj.AssemblyReference.cache
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab5\bin\Release\SisilliLab5.exe.config
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab5\bin\Release\SisilliLab5.exe
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab5\bin\Release\SisilliLab5.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab5\obj\Release\SisilliLab5.exe
+C:\Users\Caitlin\Desktop\.Net Environment\SisilliLab5\obj\Release\SisilliLab5.pdb
