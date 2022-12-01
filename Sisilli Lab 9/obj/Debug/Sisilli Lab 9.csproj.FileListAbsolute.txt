@@ -1,0 +1,11 @@
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\bin\Debug\Sisilli Lab 9.exe.config
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\bin\Debug\Sisilli Lab 9.exe
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\bin\Debug\Sisilli Lab 9.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\obj\Debug\Sisilli Lab 9.csproj.AssemblyReference.cache
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\obj\Debug\Sisilli Lab 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\obj\Debug\Sisilli_Lab_9.Form1.resources
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\obj\Debug\Sisilli_Lab_9.Properties.Resources.resources
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\obj\Debug\Sisilli Lab 9.csproj.GenerateResource.cache
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\obj\Debug\Sisilli Lab 9.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\obj\Debug\Sisilli Lab 9.exe
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 9\obj\Debug\Sisilli Lab 9.pdb
