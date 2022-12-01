@@ -1,0 +1,7 @@
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 8\bin\Debug\Sisilli Lab 8.exe.config
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 8\bin\Debug\Sisilli Lab 8.exe
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 8\bin\Debug\Sisilli Lab 8.pdb
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 8\obj\Debug\Sisilli Lab 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 8\obj\Debug\Sisilli Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 8\obj\Debug\Sisilli Lab 8.exe
+C:\Users\Caitlin\Desktop\.Net Environment\Sisilli Lab 8\obj\Debug\Sisilli Lab 8.pdb
